@@ -1,0 +1,37 @@
+body	{
+	background-color: green;
+}
+
+p	{
+	font-size: 10px;
+}
+
+h1	{
+	background-color: pink;
+}
+
+.center	{
+	text-align: center;
+}
+
+div	{
+	width: 96%;
+	background-color: yellow;
+	margin: 0 auto;
+	padding-top: 100px;
+	font-size: 2em;
+}
+
+
+
+@media (min-width: 768px)	{
+	div	{
+		width: 48%;
+		background-color: purple;
+		margin: 1%;
+		padding-top: 100px;
+		font-size: 3em;
+		float: left;
+	}
+}
+
