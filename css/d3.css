@@ -1,0 +1,10 @@
+body	{
+	background-color: #D0CCCB;
+}
+
+.bar {
+	fill: white;
+	display: inline-block;
+	margin-right: 2px;
+	width: 20px;
+}
